@@ -1,0 +1,16 @@
+[
+  {"problem": "P13", "subreddit": "LeaseholdUK", "query": "service charge"},
+  {"problem": "P13", "subreddit": "HousingUK", "query": "service charge"},
+  {"problem": "P09", "subreddit": "DIYUK", "query": "cowboy builder"},
+  {"problem": "P09", "subreddit": "HousingUK", "query": "builder deposit"},
+  {"problem": "P21", "subreddit": "Watchexchange", "query": "scam"},
+  {"problem": "P21", "subreddit": "Watches", "query": "scam"},
+  {"problem": "P22", "subreddit": "Watches", "query": "service cost"},
+  {"problem": "P22", "subreddit": "Watches", "query": "service wait"},
+  {"problem": "P05", "subreddit": "LandlordUK", "query": "making tax digital"},
+  {"problem": "P04", "subreddit": "smallbusinessuk", "query": "making tax digital"},
+  {"problem": "P02", "subreddit": "smallbusinessuk", "query": "late payment"},
+  {"problem": "P02", "subreddit": "uktrades", "query": "late payment"},
+  {"problem": "P11", "subreddit": "HousingUK", "query": "deposit dispute"},
+  {"problem": "P06", "subreddit": "UKPersonalFinance", "query": "probate bank"}
+]
